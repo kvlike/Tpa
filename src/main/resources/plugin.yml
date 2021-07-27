@@ -1,0 +1,11 @@
+name: Tpa
+version: ${project.version}
+main: me.kvlike.tpa.Tpa
+api-version: 1.16
+commands:
+  tpa:
+    description: tpa
+  tpaccept:
+    description: tpaccept
+  tpdeny:
+    description: tpdeny
